@@ -5,5 +5,3 @@
 <br>**DATA USED**
 <br>Online store sales data with over 5000 rows from the years 2019 and 2020.
 <br>The dataset was analyzed with Power BI to gain insights.
-
-<br>**SUMMARY OF FINDINGS** 
